@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"name": "San Diego",
+		"id": "aa6ea6b8-e7c2-4e37-a0e3-8da6ab0c8795"
+	},
+	{
+		"name": "Salt Lake City",
+		"id": "5c6b3088-6cbf-4c8a-8ad0-a4368e928712"
+	}
+]
